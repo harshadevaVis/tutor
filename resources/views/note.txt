@@ -1,0 +1,9 @@
+cat sub load have to do.only with own records and approved records.Hold class if it has unapproved cat or sub
+admin panel approve cat sub
+
+
+when domain reserve
+change top bar name
+change footer name
+change title tag
+and check description also
